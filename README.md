@@ -4,7 +4,7 @@ Skeleton from Minecraft is a Flutter application that showcases a stylized repre
 ----------------------------------
 Skeleton - a hostile creature in the game Minecraft. It is a mob with a bony body and the ability to shoot arrows from a bow. Skeletons pose a threat to the player, especially in the early stages of the game when the player lacks sufficient protection. They can attack the player from a distance by shooting arrows, which can cause serious damage and create problems during world exploration or construction. Encountering a skeleton requires vigilance and a strategic approach from the player to successfully overcome the threat.
 ----------------------------------                                                                       
-![skeleton](https://github.com/alina-west/flutter_hw3/assets/144222854/5d169bd5-79ee-4716-bda9-636d206f9fce)   ![image](https://github.com/alina-west/flutter_hw3/assets/144222854/c9de5e7f-f33c-4cfb-b3fe-d8cfab625dce)
+![image](https://github.com/alina-west/flutter_hw3/assets/144222854/9bc0306e-dda9-4683-ae9b-7a90adf28da2) ![image](https://github.com/alina-west/flutter_hw3/assets/144222854/c9de5e7f-f33c-4cfb-b3fe-d8cfab625dce)
 
 
 ## Features
