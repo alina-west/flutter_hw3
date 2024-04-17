@@ -6,6 +6,7 @@ Skeleton - a hostile creature in the game Minecraft. It is a mob with a bony bod
 ----------------------------------                                                                       
 ![skeleton](https://github.com/alina-west/flutter_hw3/assets/144222854/5d169bd5-79ee-4716-bda9-636d206f9fce)
 
+![image](https://github.com/alina-west/flutter_hw3/assets/144222854/c9de5e7f-f33c-4cfb-b3fe-d8cfab625dce)
 
 
 ## Features
