@@ -1,6 +1,6 @@
 # minecraft_character
 
-A new Flutter project where you can see the main characters in Minecraft
+A new Flutter project where you should create main characters in Minecraft. 
 
 ## Getting Started
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Uploading Снимок экрана 2024-04-17 225849.png…]()
