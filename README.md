@@ -1,17 +1,26 @@
-# minecraft_character
+#Skeleton from Minecraft
 
-A new Flutter project where you should create main characters in Minecraft. 
+Skeleton from Minecraft is a Flutter application that showcases a stylized representation of the iconic skeleton mob from the popular game Minecraft.
 
-## Getting Started
+##Features
+Visual Representation: Display a stylized icon resembling the skeleton mob from Minecraft.
+Text Description: Provide a brief description of the skeleton mob, including its characteristics and role in the game.
+##Installation
+To run the Skeleton from Minecraft application locally on your machine, follow these steps:
 
-This project is a starting point for a Flutter application.
+Make sure you have Flutter installed. If not, follow the official installation guide.
+Clone this repository to your local machine.
+Open the project in your preferred code editor.
+Run flutter pub get to install the dependencies.
+Run flutter run to start the application.
+##Usage
+Once the application is running, you will see a centered icon representing the skeleton mob from Minecraft, along with a text description below it.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Contributing
+Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to open an issue or create a pull request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![Uploading Снимок экрана 2024-04-17 225849.png…]()
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+![Снимок экрана 2024-04-17 225849](https://github.com/alina-west/flutter_hw3/assets/144222854/06634682-d275-43b3-b13d-7cd84da15285)
